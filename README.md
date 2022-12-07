@@ -6,6 +6,7 @@ Start with an existing application and implement methods for getting and storing
 
 1. Created repo
 1. Uploaded starter files
+1. Ran npm install
 1. Coded files
 1. Tested and debugged
 1. Uploaded files to GitHub
@@ -14,7 +15,7 @@ Start with an existing application and implement methods for getting and storing
 
 - Screenshot
 
-![image]()
+![image](https://user-images.githubusercontent.com/60651145/206161192-49c29c3f-8110-48bd-b827-15a537ff9cc6.png)
 
 - URL to deployed application
 
