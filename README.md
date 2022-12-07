@@ -6,8 +6,8 @@ Start with an existing application and implement methods for getting and storing
 
 1. Created repo
 1. Uploaded starter files
-1. Ran npm install
-1. Coded files
+1. Coded json files
+1. Coded javascript files
 1. Tested and debugged
 1. Uploaded files to GitHub
 1. Deployed to Heroku
