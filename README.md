@@ -24,4 +24,4 @@ https://shielded-badlands-94815.herokuapp.com/
 
 - URL to GitHub Repo
 
-https://github.com/SSimonPhd/text-editor
+https://github.com/SSimonPhd/text-editor 
